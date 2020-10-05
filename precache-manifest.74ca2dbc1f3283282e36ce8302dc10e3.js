@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed2b713a0579bf84a5442ec8d6800bc8",
+    "revision": "7ae73d13f481a7eb56105a5b1d829d42",
     "url": "/Constructor_Game/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Constructor_Game/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "0c12afca26dba1672398",
+    "revision": "87226ebeebeea54b80a9",
     "url": "/Constructor_Game/static/css/main.981f7211.chunk.css"
   },
   {
@@ -20,15 +20,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Constructor_Game/static/js/2.5de6f744.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c12afca26dba1672398",
-    "url": "/Constructor_Game/static/js/main.f859a4b8.chunk.js"
+    "revision": "87226ebeebeea54b80a9",
+    "url": "/Constructor_Game/static/js/main.fa4520c7.chunk.js"
   },
   {
     "revision": "27ac5ceea49a11460d0d",
     "url": "/Constructor_Game/static/js/runtime-main.7a0ae970.js"
   },
   {
-    "revision": "4e1ec8403d903dc514271d7328fbdeb3",
-    "url": "/Constructor_Game/static/media/persik.4e1ec840.png"
+    "revision": "5d3bb2729f21489cd7fdf922fc3ac91c",
+    "url": "/Constructor_Game/static/media/persik.5d3bb272.png"
   }
 ]);
