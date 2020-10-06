@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Constructor_Game/precache-manifest.7278d9bbe9a2c8197b260c886711c7aa.js"
+  "/Constructor_Game/precache-manifest.376c5014c05fe8ffe80cc4600ac07b67.js"
 );
 
 self.addEventListener('message', (event) => {

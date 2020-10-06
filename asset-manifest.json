@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Constructor_Game/static/css/main.981f7211.chunk.css",
-    "main.js": "/Constructor_Game/static/js/main.03623ce0.chunk.js",
-    "main.js.map": "/Constructor_Game/static/js/main.03623ce0.chunk.js.map",
+    "main.js": "/Constructor_Game/static/js/main.cb8d61a1.chunk.js",
+    "main.js.map": "/Constructor_Game/static/js/main.cb8d61a1.chunk.js.map",
     "runtime-main.js": "/Constructor_Game/static/js/runtime-main.7a0ae970.js",
     "runtime-main.js.map": "/Constructor_Game/static/js/runtime-main.7a0ae970.js.map",
     "static/css/2.86df01db.chunk.css": "/Constructor_Game/static/css/2.86df01db.chunk.css",
     "static/js/2.d35f6944.chunk.js": "/Constructor_Game/static/js/2.d35f6944.chunk.js",
     "static/js/2.d35f6944.chunk.js.map": "/Constructor_Game/static/js/2.d35f6944.chunk.js.map",
     "index.html": "/Constructor_Game/index.html",
-    "precache-manifest.7278d9bbe9a2c8197b260c886711c7aa.js": "/Constructor_Game/precache-manifest.7278d9bbe9a2c8197b260c886711c7aa.js",
+    "precache-manifest.376c5014c05fe8ffe80cc4600ac07b67.js": "/Constructor_Game/precache-manifest.376c5014c05fe8ffe80cc4600ac07b67.js",
     "service-worker.js": "/Constructor_Game/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/Constructor_Game/static/css/2.86df01db.chunk.css.map",
     "static/css/main.981f7211.chunk.css.map": "/Constructor_Game/static/css/main.981f7211.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.86df01db.chunk.css",
     "static/js/2.d35f6944.chunk.js",
     "static/css/main.981f7211.chunk.css",
-    "static/js/main.03623ce0.chunk.js"
+    "static/js/main.cb8d61a1.chunk.js"
   ]
 }
