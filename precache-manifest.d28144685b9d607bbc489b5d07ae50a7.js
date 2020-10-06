@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09dea10e2d43a830163a06bb50ab480b",
+    "revision": "97063dd3a304e095d081da7b8b8ac156",
     "url": "/Constructor_Game/index.html"
   },
   {
-    "revision": "6fbc9eb22a6f4c034009",
+    "revision": "494f3cac8e1f8a75a78a",
     "url": "/Constructor_Game/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "fced628c9f9a53f1d022",
+    "revision": "0090402c74329b36480b",
     "url": "/Constructor_Game/static/css/main.981f7211.chunk.css"
   },
   {
-    "revision": "6fbc9eb22a6f4c034009",
-    "url": "/Constructor_Game/static/js/2.d35f6944.chunk.js"
+    "revision": "494f3cac8e1f8a75a78a",
+    "url": "/Constructor_Game/static/js/2.14b6a634.chunk.js"
   },
   {
     "revision": "21ced859ea2b2d6b856d461ad6c2afed",
-    "url": "/Constructor_Game/static/js/2.d35f6944.chunk.js.LICENSE.txt"
+    "url": "/Constructor_Game/static/js/2.14b6a634.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fced628c9f9a53f1d022",
-    "url": "/Constructor_Game/static/js/main.b13c5e52.chunk.js"
+    "revision": "0090402c74329b36480b",
+    "url": "/Constructor_Game/static/js/main.581009d0.chunk.js"
   },
   {
     "revision": "27ac5ceea49a11460d0d",
